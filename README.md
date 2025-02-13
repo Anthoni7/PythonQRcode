@@ -35,8 +35,7 @@ python QRcode.py
 3. If the QR code contains a URL, it opens in the browser (avoiding duplicates)
 4. Draws a bounding box around detected QR codes
 
-## Preview
-![QR Scanner Preview](https://via.placeholder.com/600x300?text=QR+Scanner+Preview)
+
 
 ## License
 This project is open-source and available under the MIT License.
